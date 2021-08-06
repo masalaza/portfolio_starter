@@ -1,8 +1,10 @@
+Each FLW class will be expected to create and maintain a Class Portfolio
+that includes information about the company, class, Code Nation, and links
+to all students' portfolios. The PM or volunteers of the class will have
+to fill in the basic template before class begins, and most Guided Practices
+will involve group worktime to improve the Class Portfolio one skill at a time.
+
 # Unit 1: Online Portfolio README
-
-## Overview
-
-In this unit, coders will review HTML and CSS concepts from the Introduction to Web Development course and build a multi-page professional Portfolio.
 
 ## Day 1
 
@@ -55,7 +57,9 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [ ] Upload at least 2 images so they are hosted in your Portfolio.
 
-- [ ] Update the title tags of all your new HTML files.
+
+[ ] Add two more HTML files to your Portfolio and link them all together.
+
 
 - [ ] Link your CSS file to all of your HTML files.
 
@@ -74,15 +78,17 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [ ] Add a professional headshot of yourself.
 
-In your Projects page, create a display of at least 4 of your old coding projects that includes:
+[ ] In your Projects page, create a display of at least 4 of your old coding projects that includes:
 
-    - [ ] Project name
-    - [ ] Link to project GitHub repo
-    - [ ] Link to project live site
-    - [ ] Short description of project including coding languages used
-    - [ ] Hosted screenshot of project
 
-Add your contact information to your Contact page, including your:
+    [ ] Project name
+    [ ] Link to project GitHub repo
+    [ ] Link to project live site
+    [ ] Short description of project including coding languages used
+    [ ] Screenshot of project
+
+
+[ ] Add your contact information to your Contact page, including your:
 
     - [ ] GitHub account
     - [ ] Email address

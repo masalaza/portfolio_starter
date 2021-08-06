@@ -1,5 +1,30 @@
 /* CSS files add styling rules to your content */
 
+body {
+  background-color: black;
+  color: white;
+}
+
 h1 {
-  color: green;
+  color: #fee975;
+}
+
+img {
+  width: 400px;
+}
+
+a {
+  color: #0080ff;
+}
+
+a:hover {
+  color: #17d3ff;
+}
+
+.person {
+  border: 1px solid white;
+}
+
+.person img {
+  width: 200px;
 }
